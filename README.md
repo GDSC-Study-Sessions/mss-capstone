@@ -17,6 +17,12 @@ Responsive design
 Getting Started
 To get started with the Memariya Smart Learning App, you can either fork the repository or download the ZIP file. After downloading or forking, open the project in your preferred IDE and run the app on your device or emulator.
 
+## Here Are A Few Screenshots From The App
+
+![SplashScreen Page](./screenshots/photo_2023-04-13_22-24-11.jpg "Splash Screen")
+![A Login Page](./screenshots/photo_2023-04-13_22-24-12.jpg "Login Page")
+
+
 # Contributing
 Contributions are welcome! If you'd like to contribute to the project, please feel free to submit a pull request. You can also create issues if you find any bugs or have any suggestions for new features.
 
