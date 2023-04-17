@@ -8,6 +8,17 @@ This is a project-based mobile learning application designed to teach the Flutte
 
 The Memariya Smart Learning App provides a hands-on approach to learning Flutter through projects. Users can easily create their own customizations and modifications by forking the repository and adapting it to their needs.
 
+# Project Setup
+1. Clone the repository using the command: 
+```git 
+git clone https://github.com/GDSC-Study-Sessions/mss-capstone.git 
+```
+2. Open the project in your preferred IDE (e.g. Android Studio or VS Code).
+3. Install the required dependencies by running ```flutter pub get``` in the terminal.
+4. Run the app on your device or emulator by pressing the 'Run' button in your IDE or by running the command flutter run in the terminal.
+
+You are now ready to start exploring and customizing the Memariya Smart Learning App! Don't forget to create a new repository on GitHub to store your customized version of the app.
+
 # Features
 Project-based learning approach
 Hands-on experience with Flutter framework
