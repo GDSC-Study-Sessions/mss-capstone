@@ -19,7 +19,7 @@ To get started with the Memariya Smart Learning App, you can either fork the rep
 
 ## Here Are A Few Screenshots From The App
 
-![SplashScreen Page](./screenshots/photo_2023-04-13_22-24-11.jpg "Splash Screen")
+<img src="./screenshots/photo_2023-04-13_22-24-11.jpg" width="300">
 ![A Login Page](./screenshots/photo_2023-04-13_22-24-12.jpg "Login Page")
 
 
