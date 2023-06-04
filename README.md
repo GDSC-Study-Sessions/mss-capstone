@@ -32,6 +32,7 @@ To get started with the Memariya Smart Learning App, you can either fork the rep
 
 <img src="./screenshots/photo_2023-04-13_22-24-11.jpg" width="230">
 <img src="./screenshots/photo_2023-04-13_22-24-12.jpg" width="230">
+<img src="./screenshots/Screenshot_20230604-160335.jpg" width="230">
 
 
 # Contributing
